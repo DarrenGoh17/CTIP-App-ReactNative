@@ -30,14 +30,14 @@
 
 4. Full dependencies installation
 npm install express mysql body-parser cors bcrypt jsonwebtoken nodemailer crypto react react-native react-native-vector-icons @react-navigation/native react-i18next axios react-native-picker-select react-native-gesture-handler expo-av @react-native-community/datetimepicker @react-native-picker/picker react-native-webview react-native-awesome-alerts
-5. If there's any missing dependencies, type npm install <library>.
+5. If there's any missing dependencies, type npm install "libary".
 
 
 ## How to Setup
 1. Run Apache and MySQL in XAAMP.
 2. Open VS Code and locate SemenggohApp directory.
 3. Make sure mobile phone and Dekstop/Laptop are linked to the same internet connection.
-4. Open Command Prompt, type ipconfig. Copy paste IPv4 Address and paste it in API_BASE_URL: 'http://<IP Adress>:3001/api' under config.js.
+4. Open Command Prompt, type ipconfig. Copy paste IPv4 Address and paste it in API_BASE_URL: 'http://"IP Address":3001/api' under config.js.
 5. Change the email in server.js under "const insertAdminSql" to your respective email to enable OTP sent to your email when admin login
 6. Open 3 terminals in VSC
 7. Type "cd backend" and "node server.js" to enable the creation of tables in "semenggoh" database (1st Terminal).
