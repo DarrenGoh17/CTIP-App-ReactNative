@@ -1,4 +1,7 @@
 # CTIP-App-ReactNative
+## Software Used
+1. React Native (Mobile App developement)
+2. Node.js (Run on localhost): https://nodejs.org/en/download/prebuilt-installer/current
 ## Dependencies
 1. All Dependencies are installed in node modules already.
 2. Make sure Expo Go in mobile phone is SDK51 version ( Link to download: https://expo.dev/go?sdkVersion=51&platform=android&device=true)
@@ -43,4 +46,6 @@ npm install express mysql body-parser cors bcrypt jsonwebtoken nodemailer crypto
 10. Admin Credentials:
     - Username: admin
     - Password: 1
-11. Due to the 
+11. Due to the IoT Kit has been dismantle, "sensor_readings.sql" can be use to create the table in database.
+12. Navigate to "http://localhost/phpmyadmin/index.php?route=/server/databases" and click "semenggoh". Import "sensor_readings.sql" into databse by clicking "Import" button on top and select "sensor_readings.sql".
+13. Everything should run a expected.
