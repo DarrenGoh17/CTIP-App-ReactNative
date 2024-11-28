@@ -1,0 +1,253 @@
+{
+    "home": {
+      "animals": {
+      "title": "野生动物",
+      "orangutan": "猩猩",
+      "crocodile": "鳄鱼",
+      "porcupine": "豪猪",
+      "bearded_pig": "须猪",
+      "sambar_deer": "水鹿",
+      "great_argus_pheasant": "大凤冠雉"
+      },
+      "header": "猩猩保护区",
+      "nav": {
+        "discover": "探索",
+        "wildlife": "野生动物",
+        "events": "活动",
+        "donation": "捐赠"
+      },
+      "things_to_do": {
+        "title": "可做的事情",
+        "view_all": "查看全部",
+        "feeding_session": {
+          "title": "猩猩喂食时间",
+          "time": "时间: 上午9:00, 下午3:00"
+        },
+        "nature_walk": "自然步道",
+        "photo_session": "摄影会",
+        "souvenir_shop": "纪念品商店"
+      },
+      "whats_happening": {
+        "title": "活动",
+        "rehabilitation": "猩猩康复计划",
+        "quiz": "野生动物问答",
+        "conservation": "野生动物保护"
+      },
+      "wildlife_animals": "野生动物",
+      "donation_box": {
+        "title": "捐款箱",
+        "subtitle": "您的贡献可以带来真正的改变。",
+        "goal": "帮助我们为猩猩救援工作筹集10000令吉"
+      }
+    },
+
+    "donation": {
+    "title": "森蒙哥野生动物捐赠平台",
+    "paymentMethod": "支付方式:",
+    "spayGlobal": "SPAY GLOBAL",
+    "duitNow": "Duit",
+    "now": "Now",
+    "amount": "金额:",
+    "customAmount": "自定义金额",
+    "payNow": "立即支付",
+    "qrInstruction": "请使用您的{{method}}应用程序扫描下面的二维码以完成付款。",
+    "cancel": "取消",
+    "done": "完成",
+    "errorTitle": "错误",
+    "errorSelectMethod": "请选择一种付款方式继续。",
+    "errorSelectAmount": "请选择一个金额继续。",
+    "successTitle": "捐赠成功",
+    "successMessage": "您已捐赠 RM {{amount}}。"
+    },
+
+    "feedingSession": {
+    "title": "猩猩喂食时间",
+    "subtitle": "森蒙哥野生动物中心",
+    "description": "进入婆罗洲茂密的雨林，亲眼目睹猩猩在自然栖息地中的壮观景象。",
+    "time": "上午9:00 | 下午3:00 (周一至周日)",
+    "duration": "每次喂食持续1小时",
+    "location": "森蒙哥野生动物中心喂食区"
+   },
+    
+   "natureWalk": {
+    "title": "自然步道",
+    "subtitle": "森蒙哥自然保护区",
+    "description": "通过我们的导游自然步道，沉浸在婆罗洲丰富的雨林之美中。 探索其自然栖息地中的多样植物和动物。",
+    "time": "上午8:00 | 下午2:00 (周一至周日)",
+    "duration": "2小时导游步道",
+    "location": "森蒙哥自然步道起点"
+   },
+
+   "photoSession": {
+    "title": "与猩猩的摄影会",
+    "subtitle": "森蒙哥野生动物摄影区",
+    "description": "在猩猩的自然栖息地捕捉难忘的瞬间。加入我们的导游摄影会，近距离接触这些神奇的生物。",
+    "time": "上午10:00 | 下午4:00 (周一至周日)",
+    "duration": "1小时摄影会",
+    "location": "森蒙哥野生动物摄影区"
+   },
+
+   "giftShop": {
+    "title": "礼品店",
+    "subtitle": "森蒙哥野生动物中心纪念品商店",
+    "description": "带回您访问的纪念品！探索我们各种各样的纪念品，包括当地手工制品、教育玩具和野生动物主题的礼物。",
+    "time": "上午9:00 - 下午5:00 (每日)",
+    "location": "森蒙哥野生动物中心礼品店",
+    "items": "当地手工纪念品和野生动物主题的礼物"
+   },
+
+   "rehabilitation": {
+    "title": "猩猩康复计划",
+    "subtitle": "森蒙哥野生动物中心",
+    "description": "猩猩康复计划旨在拯救、康复并最终将失去栖息地或孤儿猩猩释放回其自然栖息地。该计划专注于为他们提供在野外独立生存所需的技能，同时促进保护工作。",
+    "dateTime": "2024年12月23日，上午10:00 - 中午12:00",
+    "location": "森蒙哥野生动物中心大厅",
+    "register": "在这里注册"
+   },
+
+   "quiz": {
+    "title": "野生动物问答",
+    "description": "立即参加我们的问答活动，有机会赢得我们纪念品商店20%的折扣券！",
+    "online": "在线",
+    "location": "Quizziz平台",
+    "joinNow": "立即加入"
+   },
+
+   "conservation": {
+    "title": "野生动物保护计划",
+    "subtitle": "森蒙哥野生动物中心",
+    "description": "野生动物保护是保护动物物种及其栖息地的做法，以确保生物多样性和生态平衡。旨在防止物种灭绝，促进可持续生态系统，并为后代保留自然环境。",
+    "dateTime": "2024年11月25日，上午10:00 - 中午12:00",
+    "location": "森蒙哥野生动物中心大厅",
+    "register": "在这里注册"
+   },
+
+   "map": {
+    "headerTitle": "探索森蒙哥野生动物中心",
+    "headerDescription": "欢迎来到森蒙哥野生动物中心，在这里您可以发现猩猩的奇妙栖息地，探索美丽的自然小径。我们为您提供了丰富的教育体验，让您了解保护这些珍稀物种的重要性。请使用下面的互动地图探索中心内的主要位置，包括猩猩喂食平台、主入口、兽医诊所等，同时与大自然亲密接触，感受生物多样性的奇妙魅力。",
+    "mainEntrance": "主入口",
+    "orangutanFeedingPlatform": "猩猩喂食平台",
+    "toilet": "厕所",
+    "vetClinic": "兽医诊所",
+    "parking": "停车场",
+    "fireAssemblyPoint": "火灾集合点",
+    "close": "关闭"
+   },
+
+   "more": {
+    "adminDashboard": "管理员仪表板",
+    "tableauDashboard": "Tableau仪表板",
+    "vouchers": "优惠券",
+    "faq": "常见问题",
+    "appSettings": "应用设置",
+    "about": "关于",
+    "logout": "登出",
+    "login": "登录",
+    "headerTitle": "森蒙哥野生动物中心",
+    "iotDashboard": "物联网仪表板"
+   },
+
+   "faq": {
+    "headerTitle": "常见问题",
+    "openingHours": "森蒙哥野生动物中心的开放时间是什么时候？",
+    "openingHoursAnswer": "森蒙哥野生动物中心每日开放时间为上午8:00至上午10:00和下午2:00至下午4:00。请合理安排您的访问。",
+    "bestTimeToSee": "什么时候是观看猩猩的最佳时间？",
+    "bestTimeToSeeAnswer": "观看猩猩的最佳时间是喂食时间，分别为上午9:00和下午3:00。然而，由于猩猩在保护区内自由活动， sightings 并不能得到保证。",
+    "ticketsInAdvance": "我需要提前购买门票吗？",
+    "ticketsInAdvanceAnswer": "门票可以在野生动物中心的入口处购买。无需提前购买门票，但建议在高峰季节提前到达。",
+    "parkingAvailable": "野生动物中心是否有停车位？",
+    "parkingAvailableAnswer": "是的，森蒙哥野生动物中心为汽车和巴士提供停车位。",
+    "bringFoodDrinks": "我可以带食物和饮料到中心吗？",
+    "bringFoodDrinksAnswer": "您可以带食物和饮料，但请避免喂养动物，并确保所有垃圾都妥善处理，以保护环境。"
+   },
+
+   "appSettings": {
+    "title": "选择您的语言",
+    "languages": {
+      "english": "英语",
+      "chinese": "中文",
+      "bahasaMelayu": "马来语"
+    }
+   },
+
+   "footer": {
+    "home": "首页",
+    "map": "地图",
+    "more": "更多"
+   },
+
+   "voucher": {
+    "title": "代金券",
+    "instruction": "在结账时向纪念品商店的员工出示此代金券代码以享受折扣。",
+    "noVouchers": "没有可兑换的代金券。",
+    "alert": {
+      "title": "兑换代金券",
+      "message": "您想兑换此代金券吗？",
+      "cancel": "否",
+      "confirm": "是"
+    },
+    "success": {
+      "title": "代金券兑现",
+      "message": "请把代金卷展示给工作人员",
+      "ok": "好的"
+    }
+   },
+
+   "about": {
+    "title": "关于",
+    "appName": "森蒙哥野生动物应用",
+    "version": "版本 1.0.1"
+   },
+
+   "profile": {
+    "title": "个人资料",
+    "avatar": "更换头像",
+    "username": "用户名",
+    "DOB": "出生日期",
+    "gender": "性别",
+    "male": "男",
+    "female": "女",
+    "notSay": "宁愿不说",
+    "setDOB": "设定出生日期",
+    "update": "更新",
+    "edit": "更新资料"
+   },
+
+   "argus": {
+    "title": "大眼斑雉",
+    "description": "大眼斑雉是一种体型巨大且壮观的鸟类，以其长尾羽和复杂的翅膀图案闻名，这些图案在求偶时展示。它是雉科中最令人印象深刻的物种之一。",
+    "habitat": "这种雉类生活在东南亚的热带雨林，包括低地森林和丘陵地带，喜欢密集的灌木丛和充足的掩护。",
+    "food": "水果、昆虫和小型无脊椎动物为食。"
+    },
+    "orangutan": {
+      "title": "猩猩",
+      "description": "猩猩是世界上最聪明的灵长类动物之一，以其红棕色的毛发、高智商和使用工具的能力而闻名。主要栖息于婆罗洲和苏门答腊的雨林中。",
+      "habitat": "猩猩生活在热带雨林中，大部分时间待在树上，在树上筑巢过夜。",
+      "food": "水果、叶子、树皮、昆虫，有时也会捕食小型哺乳动物。"
+    },
+    "crocodile": {
+      "title": "鳄鱼",
+      "description": "鳄鱼是大型食肉爬行动物，以强大的下颚、锋利的牙齿和两栖生活方式而闻名。它们是顶级掠食者，常见于河流、湖泊和沼泽中。",
+      "habitat": "鳄鱼栖息在淡水河流、湖泊、湿地，有时也出现在半咸水环境中。",
+      "food": "鱼类、两栖动物、鸟类及小至大型哺乳动物为食，视其大小而定。"
+    },
+    "porcupine": {
+      "title": "豪猪",
+      "description": "豪猪是一种大型啮齿动物，身上覆盖着锋利的刺，作为对掠食者的防御。它们主要是夜行性动物，以植被为食。",
+      "habitat": "豪猪分布在森林、沙漠和草原中，常在树上、岩石缝隙和洞穴中寻找庇护。",
+      "food": "叶子、水果、树皮和根茎。"
+    },
+    "pig": {
+      "title": "须猪",
+      "description": "须猪是一种野猪，以其粗糙的'胡须'而闻名。它在森林生态系统中起着重要作用，帮助传播种子。",
+      "habitat": "须猪通常生活在东南亚的热带雨林、红树林和森林沼泽中。",
+      "food": "根茎、块茎、水果及小型动物如昆虫。"
+    },
+    "sambar": {
+      "title": "水鹿",
+      "description": "水鹿是原产于印度次大陆和东南亚的大型鹿类。雄性拥有令人印象深刻的鹿角，以其力量和适应能力而闻名。",
+      "habitat": "水鹿栖息在森林、草原和丘陵地带，通常靠近水源。",
+      "food": "草类、叶子、果实和各种灌木为食。"
+    }
+  }
+  

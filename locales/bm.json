@@ -1,0 +1,253 @@
+{
+    "home": {
+      "animals": {
+      "title": "Hidupan Liar",
+      "orangutan": "Orangutan",
+      "crocodile": "Buaya",
+      "porcupine": "Landak",
+      "bearded_pig": "Babi Janggut",
+      "sambar_deer": "Rusa Sambar",
+      "great_argus_pheasant": "Kuang Argus Besar"
+      },
+      "header": "Pusat Perlindungan Orangutan",
+      "nav": {
+        "discover": "Teroka",
+        "wildlife": "Hidupan Liar",
+        "events": "Acara",
+        "donation": "Dermaan"
+      },
+      "things_to_do": {
+        "title": "Aktiviti-aktiviti",
+        "view_all": "Lihat Semua",
+        "feeding_session": {
+          "title": "Sesi Pemberian Makan Orangutan",
+          "time": "Masa: 9:00am, 3:00pm"
+        },
+        "nature_walk": "Jalan Jejak Alam",
+        "photo_session": "Sesi Fotografi",
+        "souvenir_shop": "Kedai Cenderamata"
+      },
+      "whats_happening": {
+        "title": "Program",
+        "rehabilitation": "Program Pemulihan Orangutan",
+        "quiz": "Kuiz Hidupan Liar",
+        "conservation": "Pemuliharaan Hidupan Liar"
+      },
+      "wildlife_animals": "Hidupan Liar",
+      "donation_box": {
+        "title": "Kotak Derma",
+        "subtitle": "Sumbangan anda boleh memberi perbezaan yang nyata.",
+        "goal": "Bantu kami mencapai RM10,000 untuk usaha menyelamatkan orangutan"
+      }
+    },
+
+    "donation": {
+    "title": "Platform Derma Hidupan Liar Semenggoh",
+    "paymentMethod": "Kaedah Pembayaran:",
+    "spayGlobal": "SPAY GLOBAL",
+    "duitNow": "Duit",
+    "now": "Now",
+    "amount": "Jumlah:",
+    "customAmount": "Jumlah Tersuai",
+    "payNow": "BAYAR SEKARANG",
+    "qrInstruction": "Sila imbas kod QR di bawah menggunakan aplikasi {{method}} anda untuk menyelesaikan pembayaran.",
+    "cancel": "Batal",
+    "done": "Selesai",
+    "errorTitle": "Ralat",
+    "errorSelectMethod": "Sila pilih kaedah pembayaran untuk meneruskan.",
+    "errorSelectAmount": "Sila pilih jumlah untuk meneruskan.",
+    "successTitle": "Derma Berjaya",
+    "successMessage": "Anda telah menderma RM {{amount}}."
+    },
+
+    "feedingSession": {
+    "title": "Sesi Pemberian Makan Orangutan",
+    "subtitle": "Pusat Hidupan Liar Semenggoh",
+    "description": "Masuki hutan hujan Borneo yang subur dan saksikan pemandangan mengagumkan orangutan di habitat semula jadi mereka.",
+    "time": "9:00 pagi | 3:00 petang (Isnin - Ahad)",
+    "duration": "1 jam/sesi pemberian makan",
+    "location": "Zon Pemberian Makan Pusat Hidupan Liar Semenggoh"
+    },
+
+    "natureWalk": {
+    "title": "Jalan Jejak Alam",
+    "subtitle": "Hutan Simpan Semenggoh",
+    "description": "Hayati keindahan hutan hujan yang kaya di Borneo dengan berjalan jejak alam yang dipandu. Temui pelbagai flora dan fauna dalam habitat semula jadi mereka.",
+    "time": "8:00 pagi | 2:00 petang (Isnin - Ahad)",
+    "duration": "2 jam berjalan dipandu",
+    "location": "Titik Permulaan Jejak Alam Semenggoh"
+   },
+
+   "photoSession": {
+    "title": "Sesi Fotografi dengan Orangutan",
+    "subtitle": "Kawasan Fotografi Pusat Hidupan Liar Semenggoh",
+    "description": "Tangkap detik-detik yang tidak dapat dilupakan bersama orangutan di habitat semula jadi mereka. Sertai sesi fotografi berpandu kami untuk lebih dekat dengan makhluk yang luar biasa ini.",
+    "time": "10:00 pagi | 4:00 petang (Isnin - Ahad)",
+    "duration": "Sesi fotografi selama 1 jam",
+    "location": "Zon Fotografi Pusat Hidupan Liar Semenggoh"
+   },
+
+   "giftShop": {
+    "title": "Kedai Cenderahati",
+    "subtitle": "Kedai Cenderahati Pusat Hidupan Liar Semenggoh",
+    "description": "Bawa pulang kenangan dari lawatan anda! Terokai pelbagai jenis cenderahati, termasuk barang buatan tempatan, mainan pendidikan, dan hadiah bertemakan hidupan liar.",
+    "time": "9:00 pagi - 5:00 petang (Setiap Hari)",
+    "location": "Kedai Cenderahati Pusat Hidupan Liar Semenggoh",
+    "items": "Cenderahati buatan tempatan dan hadiah bertemakan hidupan liar"
+   },
+
+   "rehabilitation": {
+    "title": "Program Pemulihan Orangutan",
+    "subtitle": "Pusat Hidupan Liar Semenggoh",
+    "description": "Program pemulihan orangutan bertujuan untuk menyelamatkan, memulihkan, dan akhirnya melepaskan orangutan yang hilang atau yatim piatu kembali ke habitat semula jadi mereka. Ia memberi tumpuan kepada penyediaan kemahiran yang diperlukan untuk mereka hidup secara berdikari di alam liar sambil mempromosikan usaha pemuliharaan.",
+    "dateTime": "23 Disember 2024, 10:00 pagi - 12:00 tengah hari",
+    "location": "Dewan Pusat Hidupan Liar Semenggoh",
+    "register": "Daftar Di Sini"
+   },
+
+   "quiz": {
+    "title": "Kuiz Hidupan Liar",
+    "description": "Sertai kuiz kami sekarang untuk peluang memenangi baucar diskaun 20% di kedai cenderahati kami!",
+    "online": "Dalam Talian",
+    "location": "Platform Quizziz",
+    "joinNow": "Daftar Sekarang"
+   },
+
+   "conservation": {
+    "title": "Program Pemuliharaan Hidupan Liar",
+    "subtitle": "Pusat Hidupan Liar Semenggoh",
+    "description": "Pemuliharaan hidupan liar adalah amalan melindungi spesies haiwan dan habitat mereka untuk memastikan kepelbagaian biologi dan keseimbangan ekologi. Ia bertujuan untuk mengelakkan kepupusan, mempromosikan ekosistem yang mampan, dan memelihara persekitaran semula jadi untuk generasi akan datang.",
+    "dateTime": "25 November 2024, 10:00 pagi - 12:00 tengah hari",
+    "location": "Dewan Pusat Hidupan Liar Semenggoh",
+    "register": "Daftar Di Sini"
+   },
+
+   "map": {
+    "headerTitle": "Terokai Pusat Hidupan Liar Semenggoh",
+    "headerDescription": "Selamat datang ke Pusat Hidupan Liar Semenggoh, di mana anda boleh menemui habitat luar biasa orangutan dan meneroka laluan alam yang indah. Gunakan peta interaktif di bawah untuk meneroka lokasi utama dalam pusat ini, termasuk Platform Pemberian Makan Orangutan, Pintu Masuk Utama, Klinik Veterinar, dan banyak lagi.",
+    "mainEntrance": "Pintu Masuk Utama",
+    "orangutanFeedingPlatform": "Platform Pemberian Makan Orangutan",
+    "toilet": "Tandas",
+    "vetClinic": "Klinik Veterinar",
+    "parking": "Tempat Letak Kereta",
+    "fireAssemblyPoint": "Titik Perhimpunan Kebakaran",
+    "close": "Tutup"
+   },
+
+   "more": {
+    "adminDashboard": "Papan Pemuka Admin",
+    "tableauDashboard": "Papan Pemuka Tableau",
+    "vouchers": "Baucar",
+    "faq": "Soalan Lazim",
+    "appSettings": "Tetapan Aplikasi",
+    "about": "Tentang",
+    "logout": "Log Keluar",
+    "login": "Log Masuk",
+    "headerTitle": "Pusat Hidupan Liar Semenggoh",
+    "iotDashboard": "Papan Pemuka IoT"
+   },
+
+   "faq": {
+    "headerTitle": "Soalan Lazim",
+    "openingHours": "Apakah waktu operasi Pusat Hidupan Liar Semenggoh?",
+    "openingHoursAnswer": "Pusat Hidupan Liar Semenggoh dibuka setiap hari dari 8:00 pagi hingga 10:00 pagi dan 2:00 petang hingga 4:00 petang. Sila rancang lawatan anda dengan sewajarnya.",
+    "bestTimeToSee": "Bilakah waktu terbaik untuk melihat orangutan?",
+    "bestTimeToSeeAnswer": "Waktu terbaik untuk melihat orangutan adalah semasa waktu pemberian makan, iaitu pada 9:00 pagi dan 3:00 petang. Walau bagaimanapun, tidak ada jaminan untuk melihat mereka kerana orangutan berkeliaran bebas di dalam kawasan perlindungan.",
+    "ticketsInAdvance": "Adakah saya perlu membeli tiket lebih awal?",
+    "ticketsInAdvanceAnswer": "Tiket boleh dibeli di pintu masuk pusat hidupan liar. Tiada keperluan untuk membeli tiket lebih awal, tetapi disyorkan untuk tiba awal semasa musim puncak.",
+    "parkingAvailable": "Adakah terdapat tempat letak kereta di pusat hidupan liar?",
+    "parkingAvailableAnswer": "Ya, terdapat tempat letak kereta di Pusat Hidupan Liar Semenggoh untuk kereta dan bas.",
+    "bringFoodDrinks": "Bolehkah saya membawa makanan dan minuman ke pusat ini?",
+    "bringFoodDrinksAnswer": "Anda dibenarkan membawa makanan dan minuman, tetapi sila elakkan memberi makan kepada haiwan dan pastikan semua sisa dibuang dengan betul untuk melindungi alam sekitar."
+   },
+
+   "appSettings": {
+    "title": "Pilih Bahasa Anda",
+    "languages": {
+      "english": "Bahasa Inggeris",
+      "chinese": "Bahasa Cina",
+      "bahasaMelayu": "Bahasa Melayu"
+    }
+   },
+
+   "footer": {
+    "home": "Laman Utama",
+    "map": "Peta",
+    "more": "Lebih Banyak"
+   },
+
+   "voucher": {
+    "title": "Baucar",
+    "instruction": "Tunjukkan kod baucar ini kepada kakitangan Kedai Souvenir semasa checkout untuk menikmati diskaun anda.",
+    "noVouchers": "Tiada baucar yang tinggal untuk ditebus.",
+    "alert": {
+      "title": "Tebus Baucar",
+      "message": "Adakah anda mahu menebus baucar ini?",
+      "cancel": "Tidak",
+      "confirm": "Ya"
+    },
+    "success": {
+      "title": "Penebusan Baucar Berjaya",
+      "message": "Sila tunjuk baucar kepada pekerja",
+      "ok": "OK"
+    }
+   },
+
+   "about": {
+    "title": "Tentang",
+    "appName": "Aplikasi Hidupan Liar Semenggoh",
+    "version": "Versi 1.0.1"
+   },
+
+   "profile": {
+    "title": "Profil",
+    "avatar": "Tukar Avatar",
+    "username": "Name Pengguna",
+    "DOB": "Tarikh Lahir",
+    "gender": "Jantina",
+    "male": "Lelaki",
+    "female": "Perempuan",
+    "notSay": "Sebaliknya tidak berkata",
+    "setDOB": "Tetapkan Tarikh Lahir",
+    "update": "Kemaskini",
+    "edit": "Kemaskini Profil"
+   },
+
+   "argus": {
+    "title": "Burung Kuang Raya",
+    "description": "Burung Kuang Raya adalah burung besar dan menakjubkan yang terkenal dengan bulu ekor yang panjang dan corak sayap yang rumit digunakan semasa tarian mengawan. Ia merupakan salah satu spesies burung kuang yang paling mengagumkan.",
+    "habitat": "Spesies burung ini mendiami hutan hujan tropika di Asia Tenggara, termasuk hutan dataran rendah dan kawasan berbukit. Ia lebih suka kawasan semak yang padat dan tempat perlindungan yang mencukupi.",
+    "food": "Burung Kuang Raya kebanyakannya memakan buah-buahan, serangga, dan invertebrata kecil yang terdapat di bawah hutan."
+    },
+    "orangutan": {
+      "title": "Orangutan",
+      "description": "Orangutan adalah salah satu primat paling pintar di dunia, dikenali dengan bulu perang kemerahan, kecerdasan tinggi, dan keupayaan untuk menggunakan alat. Ia terutamanya hidup di hutan hujan Borneo dan Sumatra.",
+      "habitat": "Orangutan mendiami hutan hujan tropika dan menghabiskan sebahagian besar masa mereka di atas pokok, di mana mereka membina sarang untuk tidur pada waktu malam.",
+      "food": "Buah-buahan, daun, kulit kayu, serangga, dan kadang-kadang mamalia kecil."
+    },
+    "crocodile": {
+      "title": "Buaya",
+      "description": "Buaya adalah reptilia besar dan karnivor yang dikenali dengan rahang kuat, gigi tajam, dan gaya hidup amfibia. Ia merupakan pemangsa utama yang boleh ditemui di sungai, tasik, dan paya.",
+      "habitat": "Buaya mendiami sungai air tawar, tasik, kawasan paya, dan kadang-kadang perairan payau.",
+      "food": "Ikan, amfibia, burung, dan mamalia kecil hingga besar bergantung pada saiz mereka."
+    },
+    "porcupine": {
+      "title": "Landak",
+      "description": "Landak adalah rodensia besar dengan lapisan duri tajam yang berfungsi sebagai perlindungan daripada pemangsa. Mereka kebanyakannya aktif pada waktu malam dan memakan tumbuh-tumbuhan.",
+      "habitat": "Landak boleh ditemui di hutan, padang pasir, dan padang rumput, sering mencari perlindungan di pokok, celah batu, dan liang.",
+      "food": "Bahan tumbuhan, termasuk daun, buah, kulit kayu, dan akar."
+    },
+    "pig": {
+      "title": "Babi Janggut",
+      "description": "Babi Janggut adalah spesies babi liar yang dikenali dengan 'janggut' bulu kasar yang menonjol. Ia memainkan peranan penting dalam ekosistem hutan dengan menyebarkan biji benih.",
+      "habitat": "Babi Janggut biasanya ditemui di hutan hujan, hutan paya bakau, dan kawasan hutan berpaya, terutamanya di Asia Tenggara.",
+      "food": "Akar, ubi, buah-buahan, dan haiwan kecil seperti serangga."
+    },
+    "sambar": {
+      "title": "Rusa Sambar",
+      "description": "Rusa Sambar adalah spesies rusa besar yang berasal dari subkontinen India dan Asia Tenggara. Jantan mempunyai tanduk yang mengagumkan dan mereka dikenali dengan kekuatan dan daya tahan mereka.",
+      "habitat": "Rusa Sambar mendiami hutan, padang rumput, dan kawasan berbukit, sering berhampiran sumber air.",
+      "food": "Rumput, daun, buah-buahan, dan pelbagai jenis semak."
+    }
+  }
+  
